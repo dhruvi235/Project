@@ -1,0 +1,6 @@
+John Doe,Student
+Jane Smith,Faculty
+Alan Turing,Student
+Andrew Ng,Faculty
+Mark Zuckerberg,Student
+Kevin Mitnick,Faculty

@@ -1,0 +1,11 @@
+Python Programming,John Doe,123456789,5,5,None,None
+Data Structures And Algorithms,Jane Smith,987654321,3,3,None,None
+Artificial Intelligence,Alan Turing,192837465,4,4,None,None
+Machine Learning Basics,Andrew Ng,564738291,2,2,None,None
+Web Development With Javascript,Chris Evans,847362915,6,6,None,None
+Cyber Security Essentials,Edward Snowden,736291847,5,5,None,None
+Abc,Xyz,1234,5,3,Dh,2025-03-23
+Abc,Xyz,1234,5,5,None,None
+Abc,Xyz,1234,5,5,None,None
+1,1,1,1,1,None,None
+Abc,Xyz,1234,1,1,None,None
